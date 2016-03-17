@@ -1,2 +1,0 @@
-# CodeJam
-Minimum Scalar Product.
